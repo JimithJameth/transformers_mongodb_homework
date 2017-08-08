@@ -1,0 +1,63 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  width: 50%;
+}
+
+.image_container {
+  float: right;
+  size:100%;
+}
+
+#Transformers-pic {
+  margin-top:16px;
+  height:438px ;
+  
+}
+
+button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    text-align: center;
+    margin: 5px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+#deleteButton {
+  background-color: red !important;
+}
+
+
+li {
+  /*color: black;
+  font-family: arial
+  font-size: 250%;
+  font-style: bold;*/
+}
+
+p {
+  color: black;
+  font-family: arial
+  font-size: 32px;
+  font-style: bold;
+}
+
+
+
+.list-container {
+  width: 67%;
+  height:440px;
+  background-color: #cc0000;
+  opacity: 0.7;
+      filter: alpha(opacity=20);
+  
+
+}
+
+html{
+  background-image: url("https://ak5.picdn.net/shutterstock/videos/15389950/thumb/10.jpg?i10c=img.resize(height:160)")
+
+  }
